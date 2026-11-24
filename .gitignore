@@ -1,0 +1,8 @@
+# Private keys and secrets
+key-k4.pem
+*.key
+.env
+
+# Temporary files
+*.log
+*.tmp
